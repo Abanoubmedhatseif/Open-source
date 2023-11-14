@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1699883615 source:d:\iti-open source\projects\test11\main.cpp
+	<iostream>
+	<graphics.h>
+	"point.h"
+	"line.h"
+	<conio.h>
+	<graphics.h>
+
+1699943555 d:\iti-open source\projects\test11\point.h
+
+1699883461 d:\iti-open source\projects\test11\line.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	"point.h"
+

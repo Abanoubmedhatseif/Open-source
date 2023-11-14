@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699449200 source:d:\iti-open source\projects\lab 2\main.cpp
+	<iostream>
+
+1699446849 source:d:\iti-open source\projects\lab 2\queue.cpp
+	<iostream>
+
+1699446143 source:d:\iti-open source\projects\lab 2\test.cpp
+	<iostream>
+

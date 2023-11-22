@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1700311670 source:d:\iti-open source\projects\lab_6_inheritance_new\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	"Point.h"
+	"shape.h"
+	"line.h"
+	"rectangle.h"
+	"circle.h"
+
+1700034527 d:\iti-open source\projects\lab_6_inheritance_new\point.h
+
+1700068638 d:\iti-open source\projects\lab_6_inheritance_new\line.h
+	"shape.h"
+	<conio.h>
+
+1700316285 d:\iti-open source\projects\lab_6_inheritance_new\shape.h
+	<graphics.h>
+	<stdlib.h>
+
+1700068872 d:\iti-open source\projects\lab_6_inheritance_new\rectangle.h
+	"shape.h"
+	<conio.h>
+
+1700068872 d:\iti-open source\projects\lab_6_inheritance_new\circle.h
+	"shape.h"
+	<conio.h>
+
+1700329783 source:d:\iti-open source\projects\lab 6 final\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	"Point.h"
+	"shape.h"
+	"line.h"
+	"rectangle.h"
+	"circle.h"
+
+1700034527 d:\iti-open source\projects\lab 6 final\point.h
+
+1700316285 d:\iti-open source\projects\lab 6 final\shape.h
+	<graphics.h>
+	<stdlib.h>
+
+1700329127 d:\iti-open source\projects\lab 6 final\line.h
+	"shape.h"
+	<conio.h>
+
+1700328965 d:\iti-open source\projects\lab 6 final\rectangle.h
+	"shape.h"
+	<conio.h>
+
+1700329177 d:\iti-open source\projects\lab 6 final\circle.h
+	"shape.h"
+	<conio.h>
+
+1700398752 source:d:\iti-open source\projects\lab 6 final virtual\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	"Point.h"
+	"shape.h"
+	"line.h"
+	"rectangle.h"
+	"circle.h"
+
+1700034527 d:\iti-open source\projects\lab 6 final virtual\point.h
+
+1700398868 d:\iti-open source\projects\lab 6 final virtual\shape.h
+	<graphics.h>
+	<stdlib.h>
+
+1700396646 d:\iti-open source\projects\lab 6 final virtual\line.h
+	"shape.h"
+	<conio.h>
+
+1700396646 d:\iti-open source\projects\lab 6 final virtual\rectangle.h
+	"shape.h"
+	<conio.h>
+
+1700396646 d:\iti-open source\projects\lab 6 final virtual\circle.h
+	"shape.h"
+	<conio.h>
+

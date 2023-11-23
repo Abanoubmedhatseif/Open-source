@@ -31,13 +31,13 @@
 ![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q13.jpg?raw=true)
 
 ### question 14
-![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q14.jpg?raw=true)
+![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q14.png?raw=true)
 
 ### question 15
 ![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q15.jpg?raw=true)
 
 ### question 16 p 1
-![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q16.jpg?raw=true)
+![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q16.png?raw=true)
 
 ### question 16 p 2
 ![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l2q16,2.jpg?raw=true)
@@ -68,4 +68,4 @@
 ![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l3q9,11.jpg?raw=true)
 
 ### question 10
-![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l3q10.jpg?raw=true)
+![alt text](https://github.com/Abanoubmedhatseif/Open-source/blob/main/screenshots/l3q10.png?raw=true)
